@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/group-foo.js": "/group-foo.js",
+    "/group-login.js": "/group-login.js",
+    "/group-register.js": "/group-register.js",
+    "/group-home.js": "/group-home.js"
+}
