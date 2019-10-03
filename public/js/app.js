@@ -43,7 +43,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"0":"group-register","group-home":"group-home","group-login":"group-login"}[chunkId]||chunkId) + ".js"
+/******/ 		return __webpack_require__.p + "" + ({"group-home":"group-home","group-login":"group-login","group-register":"group-register"}[chunkId]||chunkId) + ".js"
 /******/ 	}
 /******/
 /******/ 	// The require function
@@ -52546,7 +52546,7 @@ var Login = function Login() {
 
 
 var Register = function Register() {
-  return __webpack_require__.e(/*! import() | group-register */ 0).then(__webpack_require__.bind(null, /*! ./views/Register.vue */ "./resources/js/views/Register.vue"));
+  return __webpack_require__.e(/*! import() | group-register */ "group-register").then(__webpack_require__.bind(null, /*! ./views/Register.vue */ "./resources/js/views/Register.vue"));
 };
 
 var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
