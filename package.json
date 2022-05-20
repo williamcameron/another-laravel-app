@@ -21,9 +21,9 @@
         "lodash": "^4.17.21",
         "popper.js": "^1.12",
         "resolve-url-loader": "5.0.0",
-        "sass": "^1.51.0",
+        "sass": "^1.52.0",
         "sass-loader": "13.*",
-        "vue": "^3.2.33",
+        "vue": "^3.2.34",
         "vue-template-compiler": "^2.6.14"
     },
     "dependencies": {
