@@ -2143,6 +2143,15 @@ cliui@^7.0.2:
     strip-ansi "^6.0.0"
     wrap-ansi "^7.0.0"
 
+cliui@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/cliui/-/cliui-8.0.1.tgz#0c04b075db02cbfe60dc8e6cf2f5486b1a3608aa"
+  integrity sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ==
+  dependencies:
+    string-width "^4.2.0"
+    strip-ansi "^6.0.1"
+    wrap-ansi "^7.0.0"
+
 clone-deep@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/clone-deep/-/clone-deep-4.0.1.tgz#c19fd9bdbbf85942b4fd979c84dcf7d5f07c2387"
@@ -2737,9 +2746,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.251:
-  version "1.4.269"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.269.tgz#93ea2724b07f5f562daa7dd3740a1d28572b028b"
-  integrity sha512-7mHFONwp7MNvdyto1v70fCwk28NJMFgsK79op+iYHzz1BLE8T66a1B2qW5alb8XgE0yi3FL3ZQjSYZpJpF6snw==
+  version "1.4.270"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.270.tgz#2c6ea409b45cdb5c3e0cb2c08cf6c0ba7e0f2c26"
+  integrity sha512-KNhIzgLiJmDDC444dj9vEOpZEgsV96ult9Iff98Vanumn+ShJHd5se8aX6KeVxdc0YQeqdrezBZv89rleDbvSg==
 
 elliptic@^6.5.3:
   version "6.5.4"
@@ -4629,9 +4638,9 @@ postcss-value-parser@^4.1.0, postcss-value-parser@^4.2.0:
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
 postcss@^8.1.10, postcss@^8.2.1, postcss@^8.2.14, postcss@^8.2.15:
-  version "8.4.16"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.16.tgz#33a1d675fac39941f5f445db0de4db2b6e01d43c"
-  integrity sha512-ipHE1XBvKzm5xI7hiHCZJCSugxvsdq2mPnsq5+UF+VHCjiBvtDrlxJfMBToWaP9D5XlgNmcFGqoHmUn0EYEaRQ==
+  version "8.4.17"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.17.tgz#f87863ec7cd353f81f7ab2dec5d67d861bbb1be5"
+  integrity sha512-UNxNOLQydcOFi41yHNMcKRZ39NeXlr8AxGuZJsdub8vIb12fHzcq37DTU/QtbI6WLxNg2gF9Z+8qtRwTj1UI1Q==
   dependencies:
     nanoid "^3.3.4"
     picocolors "^1.0.0"
@@ -5935,11 +5944,11 @@ yargs@17.1.1:
     yargs-parser "^20.2.2"
 
 yargs@^17.2.1, yargs@^17.3.1:
-  version "17.5.1"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.5.1.tgz#e109900cab6fcb7fd44b1d8249166feb0b36e58e"
-  integrity sha512-t6YAJcxDkNX7NFYiVtKvWUz8l+PaKTLiL63mJYWR2GnHq2gjEWISzsLp9wg3aY36dY1j+gfIEL3pIF+XlJJfbA==
+  version "17.6.0"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.6.0.tgz#e134900fc1f218bc230192bdec06a0a5f973e46c"
+  integrity sha512-8H/wTDqlSwoSnScvV2N/JHfLWOKuh5MVla9hqLjK3nsfyy6Y4kDSYSvkU5YCUEPOSnRXfIyx3Sq+B/IWudTo4g==
   dependencies:
-    cliui "^7.0.2"
+    cliui "^8.0.1"
     escalade "^3.1.1"
     get-caller-file "^2.0.5"
     require-directory "^2.1.1"
