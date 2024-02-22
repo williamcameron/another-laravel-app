@@ -21,12 +21,12 @@
         "lodash": "^4.17.21",
         "popper.js": "^1.12",
         "resolve-url-loader": "5.0.0",
-        "sass": "^1.71.0",
+        "sass": "^1.71.1",
         "sass-loader": "14.*",
         "vue": "^3.4.19",
         "vue-template-compiler": "^2.7.16"
     },
     "dependencies": {
-        "vue-router": "^4.2.5"
+        "vue-router": "^4.3.0"
     }
 }
